@@ -8,7 +8,6 @@ phone: 270-343-4594
 hours: Monday - Friday, 8:00 a.m. - 4:00 p.m.
 email: info@myjtky.com
 ---
-##### Administration
 __MAYOR__  
 Nicholas Shearer
 
