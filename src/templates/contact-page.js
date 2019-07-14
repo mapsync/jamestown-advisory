@@ -5,7 +5,7 @@ import Layout from '../components/Layout'
 import * as Icon from 'react-feather';
 import Content, { HTMLContent } from '../components/Content'
 
-export const ContactPageTemplate = ({ content, contentComponent, name, address, mailing_address, city_state_zip, phone, after_hours_phone, fax, website }) => {
+export const ContactPageTemplate = ({ content, contentComponent, name, address, city_state_zip, phone, email }) => {
   const PageContent = contentComponent || Content
   return (
     <div>
@@ -22,32 +22,18 @@ export const ContactPageTemplate = ({ content, contentComponent, name, address, 
         </div>
         <div className="card">
           <div className="card-header">
-            Mailing Address
-          </div>
-          <div className="card-body">
-            {name}<br />
-            {mailing_address}<br />
-            {city_state_zip}
-          </div>
-        </div>
-        <div className="card">
-          <div className="card-header">
             Phone
           </div>
           <div className="card-body">
-            T: <a href={"tel:1-" + phone}>{phone}</a><br />
-            F: {fax}<br /><br />
-            Emergency After Hours &amp; Sewer Problems - Lebanon Police Dept<br />
-            T: <a href={"tel:1-" + after_hours_phone}>{after_hours_phone}</a><br />
-            Leave Name, Address &amp; Phone Number and state problem.
+            T: <a href={"tel:1-" + phone}>{phone}</a>
           </div>
         </div>
         <div className="card">
           <div className="card-header">
-            Website
+            Email
           </div>
           <div className="card-body">
-            <a href={website}>{website}</a>
+            <a href={"mailto:" + email}>{email}</a>
           </div>
         </div>
         <div className="card">
@@ -83,12 +69,9 @@ const ContactPage = ({ data }) => {
       <ContactPageTemplate
         name={post.frontmatter.name}
         address={post.frontmatter.address}
-        mailing_address={post.frontmatter.mailing_address}
         city_state_zip={post.frontmatter.city_state_zip}
         phone={post.frontmatter.phone}
-        after_hours_phone={post.frontmatter.after_hours_phone}
-        fax={post.frontmatter.fax}
-        website={post.frontmatter.website}
+        email={post.frontmatter.email}
         contentComponent={HTMLContent}
         content={post.html}
       />
@@ -109,12 +92,9 @@ export const contactPageQuery = graphql`
       frontmatter {
         name,
         address,
-        mailing_address,
         city_state_zip,
         phone,
-        after_hours_phone,
-        fax,
-        website
+        email
       }
     }
   }

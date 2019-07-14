@@ -1,58 +1,74 @@
 ---
 templateKey: contact-page
-name: Grayson Utilities Commission
-address: 671 South State Hwy 7
+name: City of Jamestown
+address: 112 North Main St
 mailing_address: P.O. Box 840
-city_state_zip: 'Grayson, KY 41143'
-phone: 606-474-7569
-after_hours_phone: 606-474-5731
-fax: 606-474-2662
+city_state_zip: 'Jamestown, KY 42629'
+phone: 270-343-4594
 hours: Monday - Friday, 8:00 a.m. - 4:00 p.m.
-website: http://www.graysonutilities.com
+email: info@myjtky.com
 ---
-Ramona Salyer, Commissioner Chairman
+##### Administration
+__MAYOR__  
+Nicholas Shearer
 
-Willis Kelley, Commissioner
+__CITY CLERK & PUBLIC WORKS DIRECTOR__  
+Tyler McGowan
 
-John Brooks, Commissioner
+__ASSISTANT CITY CLERK__  
+Debbie Perkins
 
-Bob James, Commissioner
+__DEPUTY CITY CLERK__  
+Jean Waddell
 
-Mayor George Steele, Commissioner
+__CUSTOMER SERVICE__  
+Stacey Overly
 
-Gerald W. Haney, Utilities Superintendent  
-Email: <a href="mailto:utilitysupt@graysonutilities.com">utilitysupt@graysonutilities.com</a>
+__CITY ATTORNEY__  
+HK Cooper
 
-Dinah Gilliam, Bookkeeper  
-Email: <a href="mailto:bookkeeper@graysonutilities.com">bookkeeper@graysonutilities.com</a>
+__CHIEF OF POLICE__  
+Jeff Kerns
 
-Harlena Huff, Secretary/Warehouse Clerk  
-Email: <a href="mailto:warehouseclerk@graysonutilities.com">warehouseclerk@graysonutilities.com</a>
+##### Emergency Services
+__Jamestown Police Department__  
+112 North Main Street  
+Jamestown, KY. 42629  
+PHONE: (270) 343 - 3300  
+Emergency DIAL 911  
+Email: <a href="mailto:jtpd@visitjamestownky.com">jtpd@visitjamestownky.com</a>
 
-Tally Harris, Head Water Treatment Plant Operator  
-199 Water Plant Road  
-T: T: <a href="tel:1-606-474-5731">606-474-5731</a>   
-F: 606-475-1524  
-Email: <a href="mailto:wtp@graysonutilities.com">wtp@graysonutilities.com</a>
+__Jamestown Volunteer Fire Department__  
+Ballard Street  
+Jamestown, KY. 42629  
+PHONE: (270) 343 - 3400  
+Emergency DIAL 911
 
-Mike Duncan, Head Wastewater Treatment Plant Operator  
-691 East 5th Street  
-T: <a href="tel:1-606-474-6840">606-474-6840</a>  
-F: 606-474-2378  
-Email: <a href="mailto:wwtp@graysonutilities.com">wwtp@graysonutilities.com</a>
+##### Maintenance
+__City Maintenance__  
+East Cumberland Ave.  
+Jamestown, KY. 42629  
+PHONE: (270) 343 - 3304  
+Office Hours : 7:00 a.m. to 3:00 p.m. / Mon. thru Fri.
 
-Scott Gilbert, Maintenance Foreman  
-T: <a href="tel:1-606-474-6840">606-474-6840</a>  
-Email: <a href="mailto:foreman@graysonutilities.com">foreman@graysonutilities.com</a>
+##### Water / Sewer
+__Jamestown Water Distribution__  
+Clear Springs Road  
+Jamestown, KY. 42629  
+PHONE: (270) 343 - 1639  
+Email: <a href="mailto:jtdc@visitjamestownky.com">jtdc@visitjamestownky.com</a>  
+Office Hours : 7:00 a.m. to 3:00 p.m. / Mon. thru Fri.
 
-##### Utility Commission Meeting
-The Grayson Utilities Commission will hold their monthly meeting every 4th Friday at 12:00 PM at the William
-J. Lewis Utility Maintenance Building. As always, the public is invited to attend.
+__Jamestown Water Treatment Plant__  
+390 Waterworks Road  
+Jamestown, KY. 42629  
+PHONE: (270) 343 - 4135  
+Email: <a href="mailto:wtp@visitjamestownky.com">wtp@visitjamestownky.com</a>  
+Operators on duty 24 hrs. a day / 365 days a year
 
-##### Printable Forms (all forms are in PDF format)
-[ACH Debit Authorization Form](http://graysonutilities.com/files/34616354.pdf)  
-[Application for New Utility Service](http://graysonutilities.com/files/109616131.pdf)  
-[Application to Discontinue Service](http://graysonutilities.com/files/109616123.pdf)  
-[Application to Start Utility Service](http://graysonutilities.com/files/128091634.pdf)  
-[Water Leak Adjustment Form](http://graysonutilities.com/files/110077951.pdf)  
-[Pool Adjustment Form](http://graysonutilities.com/files/110077534.pdf)
+__Jamestown Waste Water Treatment Plant__  
+878 Fox Road  
+Jamestown, KY. 42629  
+PHONE: (270) 343 - 3185  
+Email: <a href="mailto:wwtp@visitjamestownky.com">wwtp@visitjamestownky.com</a>  
+Operators on duty 24 hrs. a day / 365 days a year
