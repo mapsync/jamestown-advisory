@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Movie Night
+title: Friday Night Movie
 date: 2019-09-09T18:18:43.183Z
 draft: false
 description: at Beck Park
