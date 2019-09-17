@@ -7,6 +7,6 @@ description: at Beck Park
 ---
 ![](/img/movie.jpg)
 
-Come watch "Little Giants" with us **Friday night** at Beck Park in Jamestown. Movie starts at **7:00 pm**
+Come watch "Space Jam" with us **Friday night** at Beck Park in Jamestown. Movie starts at **7:00 pm**
 
 Hope to see you there
