@@ -15,11 +15,11 @@ Tyler McGowan
 **ASSISTANT CITY CLERK**\
 Debbie Perkins
 
-**DEPUTY CITY CLERK**\
-Jean Waddell
+**CUSOMER SERVICE**\
+Stacey Overly
 
 **CUSTOMER SERVICE**\
-Stacey Overly
+Whitney Murray
 
 **CITY ATTORNEY**\
 HK Cooper
